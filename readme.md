@@ -1,4 +1,4 @@
-# Lab_M Node.js Express App with MongoDB
+# How to run the application locally
 
 ## Overview
 
