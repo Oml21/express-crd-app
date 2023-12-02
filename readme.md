@@ -72,10 +72,6 @@ npm start
 - [Dotenv](https://www.npmjs.com/package/dotenv): Load environment variables from a .env file.
 - [Nodemon](https://nodemon.io/): Monitor for changes and automatically restart the server.
 
-## License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to contribute by opening issues or creating pull requests. Your feedback and contributions are welcome!
