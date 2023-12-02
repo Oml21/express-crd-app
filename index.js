@@ -19,5 +19,3 @@ app.post("/delete-post/:id", postController.deletePost);
 app.listen(PORT, () => {
     console.log(`Server has been started on PORT ${PORT}...`);
 });
-
-exports.MONGO_URI = MONGO_URI;
